@@ -1,0 +1,15 @@
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/bin/Debug/net8.0/adventureapp
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/bin/Debug/net8.0/adventureapp.deps.json
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/bin/Debug/net8.0/adventureapp.runtimeconfig.json
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/bin/Debug/net8.0/adventureapp.dll
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/bin/Debug/net8.0/adventureapp.pdb
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/obj/Debug/net8.0/adventureapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/obj/Debug/net8.0/adventureapp.AssemblyInfoInputs.cache
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/obj/Debug/net8.0/adventureapp.AssemblyInfo.cs
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/obj/Debug/net8.0/adventureapp.csproj.CoreCompileInputs.cache
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/obj/Debug/net8.0/adventureapp.sourcelink.json
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/obj/Debug/net8.0/adventureapp.dll
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/obj/Debug/net8.0/refint/adventureapp.dll
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/obj/Debug/net8.0/adventureapp.pdb
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/obj/Debug/net8.0/adventureapp.genruntimeconfig.cache
+/Users/varseth/Documents/C# Projects/ChooseYourAdventure/adventureapp/obj/Debug/net8.0/ref/adventureapp.dll

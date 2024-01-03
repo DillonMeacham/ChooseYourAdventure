@@ -6,7 +6,7 @@ namespace ChooseYourOwnAdventure
   {
       static void Main(string[] args)
     {
-      /* THE MYSTERIOUS NOISE */
+      /* THE MYSTERIOUS NOISES */
 
       // Start by asking for the user's name:
       Console.Write("What is your name?: ");
@@ -69,7 +69,7 @@ namespace ChooseYourOwnAdventure
           case "2":
           Console.WriteLine("You choos the second key. The door doesn't open. THE END.");
           break;
-
+//test
           case "3":
           Console.WriteLine("You choose the third key. The door doesn't open. THE END.");
           break;
